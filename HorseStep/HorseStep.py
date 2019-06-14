@@ -1,3 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Author  : Roger TX (425144880@qq.com)
+# @Link    : https://github.com/paotong999
+
 # 将格子转换为线条数量
 m = 7
 n = 1
